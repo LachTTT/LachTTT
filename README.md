@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    alt="Typing SVG"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+World👋%0AI+am+Michael+Albertino+Latief+(LachT)"
-  />
-</p>
+<h1 align="center">Hello World👋, I am Michael Albertino Latief (LachT)</h1>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lachttt.vercel.app/)
